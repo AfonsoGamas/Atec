@@ -1,0 +1,17 @@
+﻿25/06/2025 - Inicio das aulas de C# 
+
+Para Escrever em uma Caixa de Texto:
+	txt_nome.Text = "João da Silva";
+	txt_nome.Text = "Maria Oliveira";
+	txt_nome.AppendText("Carlos Pereira");
+	txt_nome.AppendText("Ana Costa");
+
+Para Limpar uma Caixa de Texto:
+	txt_nome.Text = string.Empty;
+	txt_nome.Text = "";
+	txt_nome.Clear();
+
+Para eliminar um Caixa de Texto:
+	txt_nome.clear(); // Limpa o conteúdo, mas a caixa de texto ainda existe.
+	txt_nome = null; // Isso não é recomendado, pois pode causar problemas de referência nula.
+quem respondeu á pergunta acima? uma AI?:

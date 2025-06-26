@@ -1,0 +1,11 @@
+C:\Users\Pedro\source\repos\Afonso_Marcondes_PI0923\Enviar\PiPl0923\PiPl0923\bin\Debug\PiPl0923.exe.config
+C:\Users\Pedro\source\repos\Afonso_Marcondes_PI0923\Enviar\PiPl0923\PiPl0923\bin\Debug\PiPl0923.exe
+C:\Users\Pedro\source\repos\Afonso_Marcondes_PI0923\Enviar\PiPl0923\PiPl0923\bin\Debug\PiPl0923.pdb
+C:\Users\Pedro\source\repos\Afonso_Marcondes_PI0923\Enviar\PiPl0923\PiPl0923\obj\Debug\PiPl0923.csproj.AssemblyReference.cache
+C:\Users\Pedro\source\repos\Afonso_Marcondes_PI0923\Enviar\PiPl0923\PiPl0923\obj\Debug\PiPl0923.Form1.resources
+C:\Users\Pedro\source\repos\Afonso_Marcondes_PI0923\Enviar\PiPl0923\PiPl0923\obj\Debug\PiPl0923.Properties.Resources.resources
+C:\Users\Pedro\source\repos\Afonso_Marcondes_PI0923\Enviar\PiPl0923\PiPl0923\obj\Debug\PiPl0923.csproj.GenerateResource.cache
+C:\Users\Pedro\source\repos\Afonso_Marcondes_PI0923\Enviar\PiPl0923\PiPl0923\obj\Debug\PiPl0923.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\source\repos\Afonso_Marcondes_PI0923\Enviar\PiPl0923\PiPl0923\obj\Debug\PiPl0923.exe
+C:\Users\Pedro\source\repos\Afonso_Marcondes_PI0923\Enviar\PiPl0923\PiPl0923\obj\Debug\PiPl0923.pdb
+C:\Users\Pedro\source\repos\Afonso_Marcondes_PI0923\Enviar\PiPl0923\PiPl0923\obj\Debug\PiPl0923.caixasDeTexto.resources
