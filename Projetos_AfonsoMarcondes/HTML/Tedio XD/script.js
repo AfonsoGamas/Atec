@@ -15,4 +15,6 @@ fechar.addEventListener('click', function(){
     play.style.display = 'none'
     botao2.style.display = 'none'
     botao.style.display = 'block'
+
+    video.pause()
 })
