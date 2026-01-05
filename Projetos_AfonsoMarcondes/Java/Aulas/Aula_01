@@ -1,0 +1,64 @@
+package aula01;
+
+public class aula01_main {
+	
+	public static void main(String[] args) {
+		System.out.println("Olá mundo ou Hello World");
+		System.out.println();
+		
+		// Declaração de variaveis
+		int idade = 18;
+		double saralio = 750.36;
+		char genero = 'M';
+		boolean ativo = true;
+		String nome = "João";
+		
+		System.out.println(idade);
+		System.out.println(saralio);
+		System.out.println(genero);
+		System.out.println(ativo);
+		System.out.println(nome);
+		System.out.println();
+		
+		/* Operadores Aritmeticos
+		 * */
+		int soma = 10 + 5;
+		int sub = 10 - 5;
+		int mult = 10 * 5;
+		int div = 10 / 5;		
+		
+		System.out.println("mult = " + mult);
+		System.out.println("soma = " + soma);
+		System.out.println("sub  = " + sub);
+		System.out.println("div  = " + div);
+		System.out.println();
+		
+		// Op. Relacionais
+		// Idade < 18
+		// Idade == 18
+		// Idade != 18
+		
+		// Op. Relacionais
+		// && ->	and
+		// || ->	or
+		// !  ->	not
+		
+		int idade2 = 18;
+		
+		if(idade >= 18) {
+			System.out.println("Maior de idade\n");
+		} else {
+			System.out.println("Menor de idade\n");
+		}
+		
+		int nota = 15;
+		if(nota >= 18) {
+			System.out.println("Excelente");
+		} else if (nota >= 10) {
+			System.out.println("Aprovado");
+		} else {
+			System.out.println("Reprovado");
+		}
+	}
+}
+
